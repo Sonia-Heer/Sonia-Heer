@@ -2,7 +2,7 @@
 
 **`Junior Software Developer`** 
 
-I am a passionate and dedicated *junior full stack software developer* with a strong foundation in programming. My expertise lies in full-stack application development, utilising tools such as Node.js, Express, and PostgreSQL. Through hands-on experience, I have honed my skills in test-driven development, debugging, and version control with Git. Working collaboratively on projects within Agile teams has been invaluable in enhancing my communication and problem-solving abilities. Moreover, I possess a keen ability to quickly learn and adapt to new programming languages and software, enabling me to stay up-to-date with the ever-evolving tech landscape.
+I am a passionate and dedicated junior full stack software developer with a strong foundation in programming. My expertise lies in full-stack application development, utilising tools such as Node.js, Express, and PostgreSQL. Through hands-on experience, I have honed my skills in test-driven development, debugging, and version control with Git. Working collaboratively on projects within Agile teams has been invaluable in enhancing my communication and problem-solving abilities. Moreover, I possess a keen ability to quickly learn and adapt to new programming languages and software, enabling me to stay up-to-date with the ever-evolving tech landscape.
 
 Feel free to explore my repositories, where you will find a range of projects that showcase my skills in TypeScript, JavaScript, Postgresql, React, and more. I am enthusiastic about contributing to open-source projects, exploring areas like cloud computing and machine learning and I am eager to continue expanding my skills, experience, and knowledge within the field as I embark on my coding journey to learn and grow. 
 
