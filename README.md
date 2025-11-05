@@ -1,10 +1,22 @@
 # 🍀 Sonia Heer
 
-**`Junior Software Developer`** 
+**`Full Stack Software Developer`** 
 
-I am a passionate and dedicated junior full stack software developer with a strong foundation in programming. My expertise lies in full-stack application development, utilising tools such as Node.js, Express, and PostgreSQL. Through hands-on experience, I have honed my skills in test-driven development, debugging, and version control with Git. Working collaboratively on projects within Agile teams has been invaluable in enhancing my communication and problem-solving abilities. Moreover, I possess a keen ability to quickly learn and adapt to new programming languages and software, enabling me to stay up-to-date with the ever-evolving tech landscape.
+Hi, I’m Sonia 👋🏼 — a Full Stack Software Developer building high-performance, user-centric web applications. I specialize in React, Next.js, TypeScript, Node.js, and modern UI frameworks, creating responsive, accessible, and maintainable interfaces that deliver real-world impact.
 
-Feel free to explore my repositories, where you will find a range of projects that showcase my skills in TypeScript, JavaScript, Postgresql, React, and more. I am enthusiastic about contributing to open-source projects, exploring areas like cloud computing and machine learning and I am eager to continue expanding my skills, experience, and knowledge within the field as I embark on my coding journey. 
+I have hands-on experience in:
+
+<ul>
+<li>Frontend: React, Next.js, TypeScript, HTML5, CSS3, Tailwind, Chakra UI, Styled Components, Shopify</li>
+<li>Backend & APIs: Node.js, Express.js, PostgreSQL, REST APIs, GraphQL</li>
+<li>Testing & Quality: Jest, Cypress, TDD, version control with Git</li>
+<li>Performance & Accessibility: WCAG 2.1 compliance, responsive design, cross-browser optimization, CI/CD</li>
+</ul>
+
+
+My projects reflect my commitment to clean, scalable code, collaborative problem-solving, and continuous learning. From rebuilding global Shopify storefronts to designing diagnostic dashboards, I aim to create solutions that improve user experience and drive measurable results.
+
+Feel free to explore my repositories to see my work in TypeScript, JavaScript, PostgreSQL, React, and more ✨
 
 <p>
   <a href="https://www.linkedin.com/in/sonia-h-a1a353258/">
