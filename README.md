@@ -2,7 +2,7 @@
 
 **`Full Stack Software Developer`** 
 
-Hi, I’m Sonia 👋🏼 — a Full Stack Software Developer building high-performance, user-centric web applications. I specialise in React, Next.js, TypeScript, Node.js, and modern UI frameworks, creating responsive, accessible, and maintainable interfaces that deliver real-world impact.
+Hi! I’m Sonia 👋🏼, a Full Stack Software Developer building high-performance, user-centric web applications. I specialise in React, Next.js, TypeScript, Node.js, and modern UI frameworks, creating responsive, accessible, and maintainable interfaces that deliver real-world impact.
 
 I have hands-on experience in:
 
